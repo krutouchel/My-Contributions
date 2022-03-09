@@ -1,5 +1,10 @@
 # My Contributions
-I'm full-time enthusiast, and I'm helping to many different projects.
-Here is a list of projects (to see the links on my contributions for each project - click on it).
-I contribute to projects faster than I add information about it! So, here is not full-list!
-To see all my contributions to different projects, visit my:
+There is a list of projects (to see the links on my contribution for each project - click on it).
+To see all my contributions to different products, visit my:
+
+- [Medium Blog](https://medium.com/@krutouchel) | [Twitter](https://twitter.com/kolyok777)
+
+## The List of Projects
+- [Lum Network](https://github.com/krutouchel/My-Contributions/blob/main/LumNetwork.md)
+
+Soon, I will add more...
