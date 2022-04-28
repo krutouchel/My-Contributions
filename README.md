@@ -6,6 +6,7 @@ To see all my contributions to different products, visit my:
 
 ## The List of Projects
 - [Lum Network](https://github.com/krutouchel/My-Contributions/blob/main/LumNetwork.md)
+- LikeCoin
 - Minima
 - ArchWay
 
