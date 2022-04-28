@@ -7,4 +7,5 @@
 
 ## Other
 
+- I am a moderator of the [russian-speaking community of Lum Network in Telegram](https://t.me/lum_network_ru)
 - [Contributor of information about Lum Network in Golden.com](https://golden.com/wiki/Lum_Network-Y3ZZM95)
