@@ -2,7 +2,10 @@
 There is a list of projects (to see the links on my contribution for each project - click on it).
 To see all my contributions to different products, visit my:
 
-- [Medium Blog](https://medium.com/@krutouchel) | [Ru-Youtube](https://www.youtube.com/channel/UCA48cj8UZWkMbKDxuplqgQg) | [Twitter](https://twitter.com/kolyok777)
+- [Website](https://marsunion.space)
+- [Medium Blog](https://medium.com/@krutouchel)
+- [Youtube](https://www.youtube.com/channel/UCA48cj8UZWkMbKDxuplqgQg)
+- [Twitter](https://twitter.com/kolyok777)
 
 ## The List of Projects
 - [Lum Network](https://github.com/krutouchel/My-Contributions/blob/main/LumNetwork.md)
