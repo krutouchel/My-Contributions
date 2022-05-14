@@ -1,5 +1,5 @@
 # The list of my contributions to [Aurora](https://aurora.dev/)
 
-## Video
+## Video in Russian
 
-- Экосистема Near - Глубокое погружение в AURORA [[Крипта Близко]](https://youtu.be/A_3DlVHzU2c)
+- [Экосистема Near - Глубокое погружение в AURORA](https://youtu.be/A_3DlVHzU2c)
