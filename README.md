@@ -8,8 +8,10 @@ To see all my contributions to different products, visit my:
 - [Twitter](https://twitter.com/kolyok777)
 
 ## The List of Projects
+### Cosmos Ecosystem
 - [Lum Network](https://github.com/krutouchel/My-Contributions/blob/main/LumNetwork.md)
 - [LikeCoin](https://github.com/krutouchel/My-Contributions/blob/main/LikeCoin.md)
+### Near Ecosystem
 - [Aurora](https://github.com/krutouchel/My-Contributions/blob/main/Aurora.md)
 
 
