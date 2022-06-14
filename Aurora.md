@@ -6,4 +6,4 @@
 
 ## Others
 
-- [Sticker pack for telegram](https://telegram.me/addstickers/AURORAPLUS)
+- [Sticker set for telegram](https://telegram.me/addstickers/AURORAPLUS)
